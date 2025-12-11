@@ -74,13 +74,13 @@ and also combines the tweet functionality from twitter into it. Find more about 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Hruthik-28/youtube-twitter.git
+    git clone https://github.com/Abhi92k3/Youtube-Twitter-App.git
     ```
 
 2. **Install dependencies:**
 
     ```bash
-    cd youtube-twitter
+    cd Youtube-Twitter-App
     npm install
     ```
 
@@ -97,6 +97,3 @@ and also combines the tweet functionality from twitter into it. Find more about 
 
 If you wish to contribute to this project, please feel free to contribute.
 
-## License
-
-This project is licensed under [ChaiAurCode](https://www.youtube.com/@chaiaurcode).
